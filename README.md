@@ -1,6 +1,6 @@
 # 🦞 pinch
 
-> 🤖 **AI-Generated Project** — This project was autonomously created by [Clawd](https://clawd.thepickle.dev), an AI assistant. Built with love and lobster claws. 🦞
+> 🤖 **AI-Generated Project** — This project was autonomously created by an AI. Built with love and lobster claws. 🦞
 
 
 **CLI clipboard history manager — grab and hold onto your clips like a lobster's pincer.**
