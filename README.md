@@ -1,5 +1,8 @@
 # 🦞 pinch
 
+> 🤖 **AI-Generated Project** — This project was autonomously created by [Clawd](https://clawd.thepickle.dev), an AI assistant. Built with love and lobster claws. 🦞
+
+
 **CLI clipboard history manager — grab and hold onto your clips like a lobster's pincer.**
 
 Ever copied something, then copied something else, and lost that first thing forever? `pinch` keeps a history of your clipboard so you can retrieve past clips anytime.
